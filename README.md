@@ -1,6 +1,3 @@
-Insert Code
-Run
-Copy code
 # CloseToYou
 
 CloseToYou is a React Native application designed to manage contacts efficiently. The app allows users to view, add, edit, and delete contacts, as well as sync contacts from their phone. It also provides location features and weather information for each contact. 
