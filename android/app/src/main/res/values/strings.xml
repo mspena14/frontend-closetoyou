@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CloseToYou</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">`${process.env.GOOGLE_MAPS_KEY}`</string>
+</resources>
